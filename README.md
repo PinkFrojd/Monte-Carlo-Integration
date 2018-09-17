@@ -1,6 +1,6 @@
 # Monte Carlo Integration
 
-Implementation of Monte Carlo Integration in java
+Implementation of Monte Carlo Integration in java.
 It works on images with black and white content.
 
 ## Results
